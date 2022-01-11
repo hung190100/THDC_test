@@ -1,5 +1,9 @@
 # THDC_test
 
+F={█(|x sin⁡y |/(x^2+y^2 )                                     ,xy<0@arccos⁡〖(xy)〗-arcsin⁡(yx)     ,xy=0@√(x^2+1)-∛(2y^2+2)            ,xy>0)┤
+
+
+
 **Bài 2:** Viết chương trình cho phép nhập vào 1 mảng số nguyên (tối đa 10 phần tử), in ra màn hình tích của 2 phần tử tiếp lớn nhất.
 
 **Input:**
