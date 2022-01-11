@@ -10,7 +10,7 @@ F = abs(x sin y) / x^2 +y^2, nếu xy < 0; arccos(xy) - arcsin(yx), nếu xy = 0
 **Output:**
 - Kết quả F
 
-VD:
+**VD:**
 
 Input: 1 1
 
@@ -29,7 +29,7 @@ Output: 0.420735
 **Output:**
 - Tích 2 phần tử liên tiếp lớn nhất.
 
-VD:
+**VD:**
 
 Input:
 
@@ -49,7 +49,7 @@ Output:
 
 **Output:** 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "**Khong co so nguyen to**".
 
-VD:
+**VD:**
 
 Input: 
 
