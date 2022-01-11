@@ -23,11 +23,11 @@ Output: 0.420735
 **Bài 2:** Viết chương trình cho phép nhập vào 1 mảng số nguyên (tối đa 10 phần tử), in ra màn hình tích của 2 phần tử tiếp lớn nhất.
 
 **Input:**
-- Dòng 1 chứa số nguyên n: số phần tử của mảng (2 <= n <= 10)
-- Dòng 2 chưa danh sách các số cách nhau khoảng trắng
+- Dòng 1 chứa số nguyên n: số phần tử của mảng (2 <= n <= 10).
+- Dòng 2 chưa danh sách các số cách nhau khoảng trắng.
 
 **Output:**
-- Tích 2 phần tử liên tiếp lớn nhất
+- Tích 2 phần tử liên tiếp lớn nhất.
 
 VD:
 
@@ -40,3 +40,26 @@ Input:
 Output:
 
 27
+
+**Bài 3:** Viết chương trình nhập vào một dãy n số nguyên dương. Tìm số nguyên tố lớn nhất trong dãy. Nếu n <= 0, in ra màn hình "**ERROR**". Nếu mảng không có số nguyên tố, in ra màn hình "Khong co so nguyen to".
+
+**Input:**
+- Dòng 1 ghi số nguyên dương n.
+- Dòng 2 là n số nguyên dương cách nhau bởi dấu cách.
+
+**Output:** 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "Khong co so nguyen to".
+
+VD:
+
+Input: 
+
+5
+
+5 21 17 1 13
+
+Output: 
+
+17
+
+
+
