@@ -1,7 +1,9 @@
 # THDC_test
 
-**Bài 1:** Tính giá trị biểu thức F và in ra màn hình: 
-F = abs(x sin y) / x^2 +y^2, nếu xy < 0; arccos(xy) - arcsin(yx), nếu xy = 0; (x^2 + 1) ^ (1/2) - (2y^2 + 2) ^ (1/3), nếu xy > 0.
+**Bài 1:** Tính giá trị biểu thức F và in ra màn hình, với F bằng: 
+- abs(x sin y) / x^2 +y^2, nếu xy < 0
+- arccos(xy) - arcsin(yx), nếu xy = 0
+- (x^2 + 1) ^ (1/2) - (2y^2 + 2) ^ (1/3), nếu xy > 0.
 
 **Input:**
 - Số thực x
