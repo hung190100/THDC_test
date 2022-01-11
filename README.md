@@ -41,13 +41,13 @@ Output:
 
 27
 
-**Bài 3:** Viết chương trình nhập vào một dãy n số nguyên dương. Tìm số nguyên tố lớn nhất trong dãy. Nếu n <= 0, in ra màn hình "**ERROR**". Nếu mảng không có số nguyên tố, in ra màn hình "Khong co so nguyen to".
+**Bài 3:** Viết chương trình nhập vào một dãy n số nguyên dương. Tìm số nguyên tố lớn nhất trong dãy. Nếu n <= 0, in ra màn hình "**ERROR**". Nếu mảng không có số nguyên tố, in ra màn hình "**Khong co so nguyen to**".
 
 **Input:**
 - Dòng 1 ghi số nguyên dương n.
 - Dòng 2 là n số nguyên dương cách nhau bởi dấu cách.
 
-**Output:** 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "Khong co so nguyen to".
+**Output:** 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "**Khong co so nguyen to**".
 
 VD:
 
