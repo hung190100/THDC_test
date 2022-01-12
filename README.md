@@ -49,7 +49,8 @@ Output:
 - Dòng 1 ghi số nguyên dương n.
 - Dòng 2 là n số nguyên dương cách nhau bởi dấu cách.
 
-**Output:** 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "**Khong co so nguyen to**".
+**Output:** 
+- 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "**Khong co so nguyen to**".
 
 **VD:**
 
@@ -69,6 +70,20 @@ Output:
 - Dòng 1 chứa số nguyên dương n là số phần tử của mảng (n <= 1000).
 - Dòng 2 là n số nguyên dương là các phần tử của mảng.
 
-**Output:** 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "**Khong co so nguyen to**".
+**Output:** 
+- Số nguyên dương duy nhất là tổng của các số lẻ mà không chia hết cho 5 xuất hiện trong mảng trên.
+
+
+**VD:**
+
+Input: 
+
+8
+
+2 1 3 4 5 6 7 8 
+
+Output: 
+
+11
 
 
