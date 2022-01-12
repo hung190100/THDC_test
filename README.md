@@ -94,4 +94,9 @@ Output:
 
 **Output:** Một dòng gồm 3 số nguyên cách nhau một dấu cách
 - Số thứ nhất: Số phần tử trong mảng có giá trị **nhỏ hơn** giá trị phần tử đầu.
-- Số thứ hai: Số phần tử trong mảng có giá trị **nhỏ hơn** giá trị phần tử đầu.
+- Số thứ hai: Số phần tử trong mảng có giá trị **bằng** giá trị phần tử đầu.
+- Số thứ ba: Số phần tử trong mảng có giá trị **lớn hơn** giá trị phần tử đầu.
+
+
+
+
