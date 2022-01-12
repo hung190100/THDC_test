@@ -73,7 +73,6 @@ Output:
 **Output:** 
 - Số nguyên dương duy nhất là tổng của các số lẻ mà không chia hết cho 5 xuất hiện trong mảng trên.
 
-
 **VD:**
 
 Input: 
