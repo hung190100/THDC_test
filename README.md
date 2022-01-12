@@ -63,5 +63,12 @@ Output:
 
 17
 
+**Bài 4:** Viết chương trình nhập vào mảng một số nguyên dương có n phần tử (n là một số nguyên được nhập vào từ bàn phím) và tính tổng các số lẻ mà không chia hết cho 5 xuất hiện trong mảng. Nếu n <= 0 thì in ra "ERROR".
+
+**Input:**
+- Dòng 1 chứa số nguyên dương n là số phần tử của mảng (n <= 1000).
+- Dòng 2 là n số nguyên dương là các phần tử của mảng.
+
+**Output:** 1 dòng duy nhất ghi ra số nguyên tố lớn nhất hoặc "**Khong co so nguyen to**".
 
 
