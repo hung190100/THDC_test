@@ -148,7 +148,9 @@ Output: Null
 
 **VD:**
 
-Input: 1 3
+Input:
+
+1 3
 
 Output:
 
@@ -156,11 +158,17 @@ Output:
 
 3
 
-Input: 4 2
+Input:
 
-Output: 2
+4 2
 
-Input: 3 6
+Output:
+
+2
+
+Input:
+
+3 6
 
 Output:
 
