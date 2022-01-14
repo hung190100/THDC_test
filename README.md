@@ -141,7 +141,6 @@ Input: TT
 Output: Null
 
 a | b
-
 a | b
 
 
