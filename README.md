@@ -206,4 +206,28 @@ Output:
 
 5.333333
 
+**Bài 10:** Viết chương trình nhập vào một mảng số thực gồm n phần tử (n là số thực được nhập từ bàn phím) và tìm số lớn nhất trong mảng vừa nhập. Hãy in giá trị ra màn hình.
+
+**Input:** 
+- Dòng đầu tiên nhập số nguyên n là số phần tử của mảng (n <= 1000).
+- Dòng tiếp theo là n số thực được nhập vào tương ứng là các giá trị chưa trong mảng.
+
+**Output:** 
+- Số thực duy nhất là giá trị lớn nhất trong mảng
+- Hiển thị kết quả ra màn hình 4 chữ số sau dấu phẩy.
+
+**VD:**
+
+Input:
+
+7
+
+1 2.5 7 1 -3 1 4
+
+Output:
+
+7.0000
+
+
+
 
