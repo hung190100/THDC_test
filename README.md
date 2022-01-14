@@ -97,6 +97,14 @@ Output:
 - Số thứ hai: Số phần tử trong mảng có giá trị **bằng** giá trị phần tử đầu.
 - Số thứ ba: Số phần tử trong mảng có giá trị **lớn hơn** giá trị phần tử đầu.
 
+**Bài 6:** Nhập vào số nguyên dương N (nếu **N <= 0** thì in ra "**Error**"). Đếm các ước số nguyên và tính tổng các ước số chia hết cho 3 và không chia hết cho 5.
+
+**Input:**
+- Số nguyên dương N.
+
+**Output:** 
+- Số các ước số nguyên của N.
+- Tổng các ước số chia hết cho 3 và không chia hết cho 5.
 
 
 
