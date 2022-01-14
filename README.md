@@ -21,7 +21,7 @@ Output: -0.173187
 Input: -1 1
 
 Output: 0.420735
-_____
+_____________
 
 **Bài 2:** Viết chương trình cho phép nhập vào 1 mảng số nguyên (tối đa 10 phần tử), in ra màn hình tích của 2 phần tử tiếp lớn nhất.
 
@@ -43,8 +43,7 @@ Input:
 Output:
 
 27
-
---------------
+_____________
 
 **Bài 3:** Viết chương trình nhập vào một dãy n số nguyên dương. Tìm số nguyên tố lớn nhất trong dãy. Nếu n <= 0, in ra màn hình "**ERROR**". Nếu mảng không có số nguyên tố, in ra màn hình "**Khong co so nguyen to**".
 
@@ -66,6 +65,7 @@ Input:
 Output: 
 
 17
+_____________
 
 **Bài 4:** Viết chương trình nhập vào mảng một số nguyên dương có n phần tử (n là một số nguyên được nhập vào từ bàn phím) và tính tổng các số lẻ mà không chia hết cho 5 xuất hiện trong mảng. Nếu n <= 0 thì in ra "ERROR".
 
@@ -87,7 +87,7 @@ Input:
 Output: 
 
 11
-
+_____________
 
 **Bài 5:** Hãy nhập vào một mảng (không quá 100 phần tử) các số nguyên, hãy tính và đưa ra màn hình số lượng phần tử trong mảng nhỏ hơn, bằng và lớn hơn giá trị của phần tử đầu
 
@@ -99,6 +99,7 @@ Output:
 - Số thứ nhất: Số phần tử trong mảng có giá trị **nhỏ hơn** giá trị phần tử đầu.
 - Số thứ hai: Số phần tử trong mảng có giá trị **bằng** giá trị phần tử đầu.
 - Số thứ ba: Số phần tử trong mảng có giá trị **lớn hơn** giá trị phần tử đầu.
+_____________
 
 **Bài 6:** Nhập vào số nguyên dương N (nếu **N <= 0** thì in ra "**Error**"). Đếm các ước số nguyên và tính tổng các ước số chia hết cho 3 và không chia hết cho 5.
 
@@ -120,6 +121,7 @@ Output:
 6
 
 12
+_____________
 
 **Bài 7:** Nhập vào hai kí tự chữ cái (phân biệt chữ in thường và chữ in hoa). 
 - Nếu không phải kí tự chữ cái thì in ra "**Error**".
@@ -143,6 +145,7 @@ Input: TT
 
 Output: Null
 
+_____________
 **Bài 8:** Rút gọn phân số
 
 **Input:** Đầu vào là 2 số nguyên viết cùng trên một dòng.
@@ -178,6 +181,7 @@ Output:
 1
 
 2
+_____________
 
 **Bài 9:** Nhập vào 1 dãy N số nguyên cho trước. Tìm tổng và trung bình các phần tử cực đại.
 
@@ -208,6 +212,7 @@ Output:
 16
 
 5.333333
+_____________
 
 **Bài 10:** Viết chương trình nhập vào một mảng số thực gồm n phần tử (n là số thực được nhập từ bàn phím) và tìm số lớn nhất trong mảng vừa nhập. Hãy in giá trị ra màn hình.
 
@@ -230,6 +235,7 @@ Input:
 Output:
 
 7.0000
+_____________
 
 **Bài 11:** Viết chương trình cho phép nhập vào một mảng số nguyên (tối đa 10 phần tử), in ra màn hình tổng của 2 phần tử liên tiếp lớn nhất. Nếu mảng chỉ có 1 phần tử, trả về kết quả 0.
 **Input:** 
