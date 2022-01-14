@@ -106,5 +106,26 @@ Output:
 - Số các ước số nguyên của N.
 - Tổng các ước số chia hết cho 3 và không chia hết cho 5.
 
+**VD:**
 
+Input: 
+
+45
+
+Output: 
+
+6
+
+12
+
+**Bài 7:** Nhập vào hai kí tự chữ cái (phân biệt chữ in thường và chữ in hoa). 
+- Nếu không phải kí tự chữ cái thì in ra "**Error**".
+- In ra các kí tự chữ cái giữa 2 kí tự đã cho, **thứ tự tăng dần theo giá trị ASCII** của chúng, mỗi kí tự cách nhau bởi một dấu cách. 
+- Nếu không có kí tự nào thỏa mãn thì in ra "**Null**".
+
+**Input:**
+- Hai kí tự viết liền nhau
+
+**Output:** 
+- Các kí tự chữ cái giữa 2 kí tự đã cho
 
