@@ -175,3 +175,35 @@ Output:
 1
 
 2
+
+**Bài 9:** Nhập vào 1 dãy N số nguyên cho trước. Tìm tổng và trung bình các phần tử cực đại.
+
+(Phần tử cực đại là phần tử lớn hơn phần tử ngay trước và ngay sau nó).
+
+**VD:** các phần tử được tô đậm dưới đây là phần tử tự đại:
+
+1 **5** 2 **6** 3 **5** 1 8 8
+
+**Input:** 
+- Số nguyên dương N.
+- Mảng N số nguyên
+
+**Output:** 
+- Tổng các phần tử cực đại
+- Trung bình các phần tử cực đại
+
+**VD:**
+
+Input:
+
+9
+
+1 5 2 6 3 5 1 8 8
+
+Output:
+
+16
+
+5.333333
+
+
