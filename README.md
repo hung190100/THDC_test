@@ -43,6 +43,7 @@ Input:
 Output:
 
 27
+----------------
 
 **Bài 3:** Viết chương trình nhập vào một dãy n số nguyên dương. Tìm số nguyên tố lớn nhất trong dãy. Nếu n <= 0, in ra màn hình "**ERROR**". Nếu mảng không có số nguyên tố, in ra màn hình "**Khong co so nguyen to**".
 
