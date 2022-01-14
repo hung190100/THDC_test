@@ -21,6 +21,7 @@ Output: -0.173187
 Input: -1 1
 
 Output: 0.420735
+__________________________
 
 **Bài 2:** Viết chương trình cho phép nhập vào 1 mảng số nguyên (tối đa 10 phần tử), in ra màn hình tích của 2 phần tử tiếp lớn nhất.
 
