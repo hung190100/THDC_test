@@ -128,4 +128,18 @@ Output:
 
 **Output:** 
 - Các kí tự chữ cái giữa 2 kí tự đã cho
+- Nếu không có kí tự nào, in ra "**Null**"
+
+**VD:**
+
+Input: kT
+
+Output: U V W X Y Z a b c d e f g h i j
+
+Input: TT
+
+Output: Null
+
+a | b
+
 
