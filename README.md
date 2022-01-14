@@ -142,4 +142,6 @@ Output: Null
 
 a | b
 
+a | b
+
 
