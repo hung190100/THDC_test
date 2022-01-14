@@ -140,7 +140,30 @@ Input: TT
 
 Output: Null
 
-a | b
-a | b
+**Bài 8:** Rút gọn phân số
 
+**Input:** Đầu vào là 2 số nguyên viết cùng trên một dòng.
 
+**Output:** Đầu ra là tử số và mẫu số của phân số đã được rút gọn được viết trên 2 dòng, tử số dòng trên, mẫu số dòng dưới, nếu tử số chia hết cho mẫu số thì chỉ in ra kết quả rút gọn trên 1 dòng.
+
+**VD:**
+
+Input: 1 3
+
+Output:
+
+1
+
+3
+
+Input: 4 2
+
+Output: 2
+
+Input: 3 6
+
+Output:
+
+1
+
+2
