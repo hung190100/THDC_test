@@ -187,7 +187,7 @@ _____________
 
 (Phần tử cực đại là phần tử lớn hơn phần tử ngay trước và ngay sau nó).
 
-**VD:** các phần tử được tô đậm dưới đây là phần tử tự đại:
+**VD:** các phần tử được tô đậm dưới đây là phần tử cực đại:
 
 1 **5** 2 **6** 3 **5** 1 8 8
 
