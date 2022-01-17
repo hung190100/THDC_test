@@ -2,27 +2,26 @@
 
 int main()
 {
-    int i,n;
-    scanf("%d",&n);
-    int a[n+1];
-    for(int i=0; i<n; i++)
+    double a,b,c;
+    scanf("%lf",&a);
+    scanf("%lf",&b);
+    scanf("%lf",&c);
+    if(a>0 && b>0 && c>0 )
     {
-        scanf("%d",&a[i]);
-    }
-    int min=a[0];
-    int sum_odd=0;
-    for(int i=0; i<n; i++)
-    {
-        if(min>a[i])
+        if( (a+b>c) && (b+c>a) && (a+c>b) )
         {
-            min=a[i];
+            double p=(a+b+c)/2.0;
+            printf("%lf",sqrt(p*(p-a)*(p-b)*(p-c)));
         }
-        if(a[i]%2==0)
+        else
         {
-            sum_odd+=a[i];
+            printf("Khong phai tam giac");
         }
     }
-    printf("%d %d",min,sum_odd);
+    else
+    {
+        printf("Khong phai tam giac");
+    }
     return 0;
 
 }
