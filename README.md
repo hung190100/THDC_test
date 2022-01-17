@@ -148,7 +148,7 @@ Output: Null
 _____________
 **Bài 8:** Rút gọn phân số
 
-**Input:** Đầu vào là 2 số nguyên viết cùng trên một dòng.
+**Input:** Đầu vào là 2 số nguyên dương viết cùng trên một dòng.
 
 **Output:** Đầu ra là tử số và mẫu số của phân số đã được rút gọn được viết trên 2 dòng, tử số dòng trên, mẫu số dòng dưới, nếu tử số chia hết cho mẫu số thì chỉ in ra kết quả rút gọn trên 1 dòng.
 
