@@ -258,7 +258,7 @@ Output:
 12
 ________________
 
-**Bài 12**: Viết chương trình tính diện tích tam giác.Trong đó độ dài 3 cạnh là 3 số thực a,b,c được nhập từ bàn phím.
+**Bài 12:** Viết chương trình tính diện tích tam giác.Trong đó độ dài 3 cạnh là 3 số thực a,b,c được nhập từ bàn phím.
 
 -	Chú ý: Kiểm tra xem đó có phải độ dài 3 cạnh tam giác không. Nếu có thì tính và in ra diện tích tam giác, ngược lại in ra màn hình “Khong phai tam giac”
 
@@ -284,7 +284,7 @@ Kết quả:
 
 _________
 
-**Bài 13:**Đếm số phần tử phân biệt của 1 mảng số nguyên A[] gồm N phần tử
+**Bài 13:** Đếm số phần tử phân biệt của 1 mảng số nguyên A[] gồm N phần tử
 Trong đó giá trị N và các phần tử của mảng A được nhập từ bàn phím
 
 -	Chú ý: N là số nguyên dương nhỏ hơn 100, Không cần kiểm tra xem giá trị của N có hợp lệ không
@@ -314,7 +314,7 @@ Kết quả:
 3
 _________
 
-**Bài 14**: Viết chương trình cho phép vào 1 mảng số nguyên(tối đa 10 phần tử) in ra màn hình phần tử bé nhất trong mảng và tổng các số chẵn trong mảng. Lưu ý: nếu không có số chẵn nào thì tổng sẽ là 0.
+**Bài 14:** Viết chương trình cho phép vào 1 mảng số nguyên(tối đa 10 phần tử) in ra màn hình phần tử bé nhất trong mảng và tổng các số chẵn trong mảng. Lưu ý: nếu không có số chẵn nào thì tổng sẽ là 0.
 
 **Input:**
 
